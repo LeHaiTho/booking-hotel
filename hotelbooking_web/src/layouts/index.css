@@ -1,0 +1,93 @@
+/* Chỉnh màu mặc định của ảnh svg  */
+.bui-dropdown__arrows,
+.bk-icon-streamline-eye{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    color: white; /* Màu SVG sẽ là màu kế thừa từ thuộc tính `color` */
+}
+/* svg icon chính  */
+.bk-icon-streamline-house,
+.bk-icon-streamline-calendar,
+.bk-icon-streamline-label,
+.bk-icon-streamline-list,
+.bk-icon-streamline-edit,
+.bk-icon-streamline-rocket,
+.bk-icon-streamline-email,
+.bk-icon-streamline-heart_outline,
+.bk-icon-streamline-page,
+.bk-icon-streamline-chart,
+.bk-icon-streamline-question_mark_circle,
+.bk-icon-streamline-account_user{
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    color: white; /* Màu SVG sẽ là màu kế thừa từ thuộc tính `color` */
+}
+/* chỉnh màu cho svg UserActionPopup  */
+.bk-icon-streamline-key,
+.bk-icon-streamline-check_out,
+.bk-icon-streamline-bell_normal,
+.bk-icon-streamline-task_list_heart,
+.bk-icon-streamline-account_create,
+.bk-icon-streamline-group,
+.bk-icon-streamline-mobile_phone,
+.bk-icon-streamline-share,
+.bk-icon-streamline-note_edit,
+.bk-icon-streamline-settings,
+.bk-icon-streamline-confirmation{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    color: black; /* Màu SVG sẽ là màu kế thừa từ thuộc tính `color` */
+}
+.itemUserAction:hover{
+    background-color: #fafafa;
+}
+/* group hover  */
+.group-hover:hover{
+    cursor: pointer;
+    background-color: rgba(31, 78, 143, 0.9);
+}
+ /* chỉnh sửa popup menu  */
+.group-hover-home{
+    border-bottom: 5px solid #003b95;
+}
+.group-hover-home:hover {
+    background-color: rgba(31, 78, 143, 0.9);
+    border-bottom: 5px solid #cecece;
+    cursor: pointer;
+}
+
+.group-hover-home.calendar-menu:hover .calendarpopupmenu{
+    display:block !important;
+} 
+
+.group-hover-home.mailbox-menu:hover .mailboxpopupmenu{
+    display:block !important;
+} 
+
+.group-hover-home.promotional-menu:hover .promotionalpopupmenu{
+    display:block !important;
+} 
+.group-hover-home.placetostay-menu:hover .placetostaypopupmenu{
+    display:block !important;
+} 
+
+.group-hover-home.performance-menu:hover .performancepopupmenu{
+    display:block !important;
+} 
+.group-hover-home.review-menu:hover .reviewpopupmenu{
+    display:block !important;
+} 
+.group-hover-home.finance-menu:hover .financepopupmenu{
+    display:block !important;
+} 
+.group-hover-home.analyze-menu:hover .analyzepopupmenu{
+    display:block !important;
+} 
+
+/* hover cho menu hotel  */
+.item-hotel-menu:hover {
+    background-color: #fafafa;
+}

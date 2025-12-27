@@ -1,0 +1,9 @@
+/* Hiển thị item-icon  */
+.item-typehotel-p2 .item-icon{
+    display:block !important;
+}
+/* Hiện thị border item-icon  */
+.item-typehotel-p2 {
+    border-width: 2px !important;
+    border-color: #003b95 !important /* Ví dụ: đổi màu viền */
+}

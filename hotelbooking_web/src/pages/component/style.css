@@ -1,0 +1,32 @@
+.currentcy_space :hover {
+  border: 2px solid blue;
+}
+
+.calendarpopupmenu li:hover {
+  background-color: #fafafa;
+}
+
+.mailboxpopupmenu li:hover {
+  background-color: #fafafa;
+}
+.promotionalpopupmenu li:hover {
+  background-color: #fafafa;
+}
+.placetostaypopupmenu li:hover {
+  background-color: #fafafa;
+}
+.performancepopupmenu li:hover {
+  background-color: #fafafa;
+}
+.reviewpopupmenu li:hover {
+  background-color: #fafafa;
+}
+.financepopupmenu li:hover {
+  background-color: #fafafa;
+}
+.analyzepopupmenu li:hover {
+  background-color: #fafafa;
+}
+.bookingroom li:hover {
+  background-color: #fafafa;
+}

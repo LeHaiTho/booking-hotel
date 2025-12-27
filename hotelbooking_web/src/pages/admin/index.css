@@ -1,0 +1,6 @@
+/* Thay màu nền tiêu đề bảng */
+.ant-table-thead > tr > th {
+    background-color: #e6f7ff !important;  /* Màu xanh nhạt ví dụ */
+    color: #1890ff;                        /* Màu chữ */
+    font-weight: bold;
+  }
